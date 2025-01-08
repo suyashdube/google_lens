@@ -45,4 +45,12 @@ Pre-trained ViTs and ResNet provided better embeddings than autoencoders and CNN
 While effective, cosine similarity could be explored for datasets with unique characteristics. Alternative similarity metrics (e.g., Euclidean distance) could also be explored.
 
 
+# References
 
+https://arxiv.org/abs/2010.11929
+
+PyTorch Documentation: https://pytorch.org/docs/
+
+https://pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/
+
+Hugging Face Transformers Library: https://huggingface.co/transformers/
